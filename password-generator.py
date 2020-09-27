@@ -1,3 +1,8 @@
+'''
+Password Genertor Tool.
+COPYRIGHT 2020 , PAOCLOUD CO., LTD.
+'''
+
 import string
 from random import *
 
